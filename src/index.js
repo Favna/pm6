@@ -2,4 +2,4 @@
 
 const { execSync } = require('child_process');
 
-execSync(`docker ${process.argv.slice(2).join(' ')}`,  { stdio: 'inherit' });
+execSync(`docker ${process.argv.slice(2).join(' ')}`, { stdio: 'inherit' });
