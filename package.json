@@ -1,0 +1,11 @@
+{
+  "name": "pm6",
+  "version": "10.0.0",
+  "description": "pm2, but better",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "repository": "https://github.com/favna/pm6",
+  "author": "Favna",
+  "license": "AGPL-3.0",
+  "private": false
+}
